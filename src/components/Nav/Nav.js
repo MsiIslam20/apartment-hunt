@@ -7,7 +7,7 @@ const Nav = () => {
     return (
         <div className="mh-header">
             <div className="container">
-                <nav class="navbar navbar-expand-lg">
+                <nav className="navbar navbar-expand-lg">
                     <div className="container-fluid">
                         <a className="navbar-brand" href="#0">
                             <img src={logo} alt="" className="img-fluid"/>
