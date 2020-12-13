@@ -1,3 +1,17 @@
-.hotel-list-wrapper{
-    
+.headlines p{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.0015em;
+    color: #275A53;
+    margin-top: 28px;
+    margin-bottom: 3px;
+}
+.headlines h2{
+    font-weight: bold;
+    font-size: 34px;
+    line-height: 50px;
+    letter-spacing: 0.0015em;
+    color: #16322E;
+    margin-bottom: 55px;
 }

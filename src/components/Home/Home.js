@@ -1,5 +1,6 @@
 import React from 'react';
 import Header from '../Header/Header';
+import HotelList from '../HotelList/HotelList';
 import Nav from '../Nav/Nav';
 
 const Home = () => {
@@ -7,6 +8,7 @@ const Home = () => {
         <>
             <Nav></Nav>
             <Header></Header>
+            <HotelList></HotelList>
         </>
     );
 };
