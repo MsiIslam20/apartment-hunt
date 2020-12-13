@@ -17,7 +17,7 @@
     min-height: 50px;
     margin-right: 20px;
 }
-.default-btn{
+.btn.default-btn{
     background: #275A53;
     border-radius: 5px;
     border: 1px solid #275A53;
