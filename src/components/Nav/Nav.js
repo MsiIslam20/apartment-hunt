@@ -5,7 +5,7 @@ import './nav.css'
 
 const Nav = () => {
     return (
-        <div className="mh-header">
+        <div className="mh-header fixed-top">
             <div className="container">
                 <nav className="navbar navbar-expand-lg">
                     <div className="container-fluid">

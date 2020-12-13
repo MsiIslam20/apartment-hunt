@@ -1,7 +1,7 @@
 .rent-header{
     background: url(../../images/header-bg.png) no-repeat scroll center center;
     background-size: cover;
-    padding: 105px 0px;
+    padding: 210px 0px;
     padding-bottom: 180px;
 }
 .rent-header h1{
@@ -27,7 +27,7 @@
     color: #FFFFFF;
     padding: 13px 30px;
 }
-.btn:hover{
+.btn.default-btn:hover{
     border: 1px solid #275A53;
     background: #FFFFFF;
     color: #275A53 !important;
