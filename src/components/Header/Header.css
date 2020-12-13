@@ -27,3 +27,8 @@
     color: #FFFFFF;
     padding: 13px 30px;
 }
+.btn:hover{
+    border: 1px solid #275A53;
+    background: #FFFFFF;
+    color: #275A53 !important;
+}
