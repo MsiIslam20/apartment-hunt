@@ -4,6 +4,9 @@
     padding: 210px 0px;
     padding-bottom: 180px;
 }
+.rent-header.rent_home{
+    padding-bottom: 65px;
+}
 .rent-header h1{
     font-weight: bold;
     font-size: 48px;
