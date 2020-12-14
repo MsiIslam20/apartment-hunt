@@ -1,6 +1,6 @@
 import React from 'react';
 import './Footer.css';
-import locations from '../../images/locations.svg'
+import locations from '../../../images/locations.svg'
 
 const Footer = () => {
     return (

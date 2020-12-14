@@ -1,7 +1,7 @@
 import React from 'react';
-import map from '../../images/map.svg';
-import bedroom from '../../images/bed.svg';
-import bath from '../../images/bath.svg';
+import map from '../../../images/map.svg';
+import bedroom from '../../../images/bed.svg';
+import bath from '../../../images/bath.svg';
 
 
 const SingleHotel = (props) => {

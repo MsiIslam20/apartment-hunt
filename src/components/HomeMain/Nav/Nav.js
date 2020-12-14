@@ -1,6 +1,6 @@
 import React from 'react';
-import '../../../node_modules/bootstrap/dist/css/bootstrap.min.css';
-import logo from '../../images/logo.svg';
+import '../../../../node_modules/bootstrap/dist/css/bootstrap.min.css';
+import logo from '../../../images/logo.svg';
 import './nav.css'
 
 const Nav = () => {

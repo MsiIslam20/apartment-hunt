@@ -1,9 +1,10 @@
 import React from 'react';
-import Footer from '../Footer/Footer';
+import Nav from '../Nav/Nav';
 import Header from '../Header/Header';
 import HotelList from '../HotelList/HotelList';
-import Nav from '../Nav/Nav';
 import Service from '../Services/Service';
+import Footer from '../Footer/Footer';
+
 
 const Home = () => {
     return (
