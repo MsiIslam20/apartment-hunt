@@ -5,7 +5,10 @@ const RentDetails = () => {
         <section className="rent-wrapper">
             <div className="container">
                 <div className="row">
-                    <div className="col-md-12">
+                    <div className="col-md-7">
+                        <h1>Hello World</h1>
+                    </div>
+                    <div className="col-md-5">
                         
                     </div>
                 </div>
