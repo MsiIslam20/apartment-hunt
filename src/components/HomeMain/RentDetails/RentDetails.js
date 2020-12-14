@@ -9,7 +9,7 @@ const RentDetails = () => {
                         <h1>Hello World</h1>
                     </div>
                     <div className="col-md-5">
-                        
+                        <h1>Hello</h1>
                     </div>
                 </div>
             </div>
